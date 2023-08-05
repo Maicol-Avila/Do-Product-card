@@ -50,7 +50,6 @@ export const ProductCard = ({
   );
 };
 
-export default ProductCard;
 //Esta es otra forma de importar por componente
 //Le asignamos al compotnente prouctCart dandolelaasignacion de tileque que es ProductTitle
 // ProductCard.Title = ProductTitle;

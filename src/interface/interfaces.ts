@@ -13,7 +13,7 @@ export interface Props {
   styles?: CSSProperties;
   onChange?: (arg: onChangeArgs) => void;
   value?: number;
-  initialValues: InitialValues;
+  initialValues?: InitialValues;
 }
 
 export interface InitialValues {

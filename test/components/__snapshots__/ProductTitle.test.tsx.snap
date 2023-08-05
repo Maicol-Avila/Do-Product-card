@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductTitle Debe mopstar el componente del titulo perzonalizado 1`] = `
+<span
+  className=" productDescription cusmtom-class"
+>
+  Custom product
+</span>
+`;
+
+exports[`ProductTitle Debe mostrarse el componente con el nombre 1`] = `
+<div
+  className=" productCard undefined "
+  id="1"
+>
+  <span
+    className=" productDescription undefined"
+  >
+    Este es el titulo del producto 1
+  </span>
+</div>
+`;
